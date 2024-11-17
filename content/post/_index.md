@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: MOS新生见面会
 
 # Listing view
 view: compact
