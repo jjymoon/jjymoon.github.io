@@ -7,8 +7,8 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        MOS实验室
+        让梦想可及，让创意落地
       image:
         filename: welcome.jpg
       text: |

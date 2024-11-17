@@ -7,13 +7,13 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: News
+  - name: 成果奖项
     url: post
     weight: 20
   - name: Moser
     url: people
     weight: 30
-  - name: Events
+  - name: 涉猎方向
     url: event
     weight: 40
   - name: Publications
