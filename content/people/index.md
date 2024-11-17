@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: MOSers
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -17,6 +17,7 @@ sections:
           - Administration
           - Visitors
           - Alumni
+          - 指导老师
       sort_by: Params.last_name
       sort_ascending: true
     design:
